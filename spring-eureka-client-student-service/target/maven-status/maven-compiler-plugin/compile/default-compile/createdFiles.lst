@@ -1,0 +1,3 @@
+com\eureka\student\client\SpringEurekaStudentApplication.class
+com\eureka\student\client\bean\Student.class
+com\eureka\student\client\controller\StudentController.class
